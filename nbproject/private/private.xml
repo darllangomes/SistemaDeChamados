@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Exceptions/DataInvalidaException.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/java/helpdesk/JAVAHelpDesk.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Dados/RepositorioChamados.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Exceptions/ErroDesconhecidoException.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Beans/Usuario.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Beans/Cliente.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Beans/Chamado.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Exceptions/ChamadoJaExisteException.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Negocio/ControladorUsuarios.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Beans/Admin.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Dados/RepositorioUsuarios.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Negocio/ControladorChamados.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Beans/Suporte.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Negocio/Servidor.java</file>
+            <file>file:/C:/Users/Darllan%20Gomes/Documents/NetBeansProjects/JAVA%20HelpDesk/src/Exceptions/ErroAoSalvarException.java</file>
+        </group>
+    </open-files>
+</project-private>
